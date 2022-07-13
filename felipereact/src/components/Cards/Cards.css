@@ -1,0 +1,20 @@
+.card Img{
+    height: 30vh;
+    opacity: 1;
+    border-radius: 15px;
+}
+
+.card{
+    background: linear-gradient(to bottom, #33d6ff, #cde6ec);
+    border-radius: 15px;
+    border: none;
+    margin: 2%;
+}
+
+.card-title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+    text-decoration: none;
+    font-weight: bolder;
+
+}

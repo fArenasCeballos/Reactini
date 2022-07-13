@@ -1,0 +1,17 @@
+img{
+    height: 70vh;
+    padding: 2%;
+    opacity: 0.8;
+}
+
+.carousel-item{
+    background-color: black;
+}
+
+h5{
+    color: white;
+}
+
+p{
+    color: white;
+}
