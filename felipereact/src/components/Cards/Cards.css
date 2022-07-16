@@ -6,9 +6,8 @@
 
 .card{
     background: linear-gradient(to bottom, #33d6ff, #cde6ec);
-    border-radius: 15px;
     border: none;
-    margin: 2%;
+    margin: 150px;
 }
 
 .card-title{
@@ -18,3 +17,4 @@
     font-weight: bolder;
 
 }
+

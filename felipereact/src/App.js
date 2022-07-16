@@ -11,8 +11,6 @@ function App() {
             <h4>Bienvenido a BoxPro X</h4>
             <h7>Esta es una página para todos aquellos que deseen saber sobre el mundo de los videojuegos</h7>
             <Cards/>
-            <Cards/>
-            <Cards/>
         </div>
     );
 }
