@@ -10,11 +10,11 @@ function CollapsibleExample() {
   return (
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
       <Container>
-        <Navbar.Brand href="">BoxPro X</Navbar.Brand>
+        <Navbar.Brand href="../App.js">BoxPro X</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="#features">Home</Nav.Link>
+            <Nav.Link href="../Home.js">Home</Nav.Link>
             <Nav.Link href="#pricing">Juegos</Nav.Link>
             <NavDropdown title="Género" id="collasible-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Acción</NavDropdown.Item>

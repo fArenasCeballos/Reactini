@@ -1,0 +1,25 @@
+img{
+    height: 70vh;
+    padding: 2%;
+    opacity: 0.6;
+}
+
+.carousel-item{
+    background-color: black;
+}
+
+h5{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+.carousel-dark .carousel-control-next-icon, .carousel-dark .carousel-control-next-icon{
+    filter: none;
+}
+
+.carousel-dark .carousel-control-prev-icon, .carousel-dark .carousel-control-prev-icon{
+    filter: none;
+}

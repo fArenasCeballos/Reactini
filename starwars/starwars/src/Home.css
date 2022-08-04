@@ -1,0 +1,11 @@
+h4{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+
+h7{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
