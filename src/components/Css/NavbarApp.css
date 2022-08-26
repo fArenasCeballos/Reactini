@@ -1,0 +1,19 @@
+nav{
+  background-color: #000;
+}
+
+.logo{
+    height: 80px;
+  }
+  
+  .nav-link{
+   color:white;
+ }
+
+ .nav-link:hover{
+   color:rgb(109, 148, 255);
+ }
+
+.Nava{
+  margin-left: 80%;
+}

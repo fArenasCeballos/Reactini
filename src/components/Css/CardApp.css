@@ -1,0 +1,41 @@
+.CardsG{
+    display: grid;
+    grid-template-columns: 22% 22% 22%;
+    justify-content: center;
+    margin-top: 100px;
+    gap: 50px;
+    margin-bottom: 100px;
+  }
+
+.CardI{
+    background-image: url(/src/assets/img/cielo.png);
+    padding: 20px;
+    border-radius: 30px;
+}
+
+
+
+.CardI img{
+    height: 200px;
+    border-radius: 40px;
+    margin: auto;
+  }
+
+.CardI h3{
+    margin: 20px auto;
+    color: cyan;
+}
+
+.CardI p{
+    color: gainsboro;
+}
+
+.CardI button{
+    background-color: cyan;
+    border-radius: 12px;
+    border-color: cyan;
+    transition: all .5s;
+    height: 45px;
+    width: 100px;
+    border-width: 6px;
+}
